@@ -3,7 +3,7 @@ code for compose
 
 
 
-## VisualTransformationFormatter
+## VisualTransformationFormatter (compose.utils.VisualTransformationFormatter.kt)
  HOW TO USE
 
   example)
